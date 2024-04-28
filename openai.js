@@ -1,6 +1,6 @@
 class OpenAIAPI {
     static async generateResponse(userMessage, conversationHistory = []) {
-        const apiKey = 'sk-proj-4YF7g9H3UHD3LK4yDBC5T3BlbkFJbvWHNNDAdoG526sm7Wxz';
+        const apiKey = '';
         const endpoint = 'https://api.openai.com/';
         const response = await fetch(endpoint, {
             method: 'POST',
