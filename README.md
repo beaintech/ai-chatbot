@@ -1,4 +1,6 @@
-# chatgpt-api
+## the project name: chatgpt-api
+
+### how to start:
 
 # mkdir software-dev-chatbot
 # cd software-dev-chatbot
